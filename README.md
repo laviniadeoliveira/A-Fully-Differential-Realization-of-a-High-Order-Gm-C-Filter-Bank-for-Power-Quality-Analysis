@@ -5,7 +5,7 @@
 * [Paper in PDF]
 * [Simulations] - This folder contains LTSpice simulations of the proposed filter bank, comprising both the individual filter stages and their cascaded arrangement.
 * [Excel Table](https://github.com/laviniadeoliveira/A-Fully-Differential-Realization-of-a-High-Order-Gm-C-Filter-Bank-for-Power-Quality-Analysis/blob/main/Parameter.xlsx) - Spreadsheet containing the parameters used in the transfer function equations
-* [Bode Diagrams] - Bode plots simulated in Octave to validate the transfer functions.
+* [Bode Diagrams](https://github.com/laviniadeoliveira/A-Fully-Differential-Realization-of-a-High-Order-Gm-C-Filter-Bank-for-Power-Quality-Analysis/blob/main/BodeDiagrams.zip) - Bode plots simulated in Octave to validate the transfer functions.
 
   ### Authors
 
